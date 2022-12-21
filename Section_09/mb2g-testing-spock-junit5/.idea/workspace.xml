@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="6a5b8da0-ca88-44d5-9ce8-6fb7a148f727" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../mb2g-testing-junit4/src/test/java/guru/springframework/JavaHelloWorldTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../mb2g-testing-junit4/src/test/java/guru/springframework/JavaHelloWorldTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mb2g-testing-junit4and5/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../mb2g-testing-junit4and5/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mb2g-testing-junit4andGroovy/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../mb2g-testing-junit4andGroovy/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mb2g-testing-junit4andGroovy/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../mb2g-testing-junit4andGroovy/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mb2g-testing-junit4andGroovy/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../mb2g-testing-junit4andGroovy/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mb2g-testing-junit4andGroovy/src/main/java/guru/springframework/JavaHelloWorld.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mb2g-testing-junit4andGroovy/src/test/java/guru/springframework/JavaHelloWorldTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../mb2g-testing-junit4andGroovy/src/test/java/guru/springframework/JavaHelloWorldTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mb2g-testing-junit4andGroovy/src/test/java/package-info.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mb2g-testing-junit5/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../mb2g-testing-junit5/pom.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="workspaceImportEnabled" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2J6CiLRX7UDIOm1pFxrLBwN4bFv" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "com.google.cloudcode.ide_session_index": "20221218_0003",
+    "last_opened_file_path": "/Users/dave/Development/Java_WorkSpace/Apache_Maven_Beginner_to_Guru/Section_09/mb2g-testing-spock-junit5",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6a5b8da0-ca88-44d5-9ce8-6fb7a148f727" name="Changes" comment="" />
+      <created>1671389276004</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1671389276004</updated>
+      <workItem from="1671389276975" duration="37000" />
+      <workItem from="1671389470399" duration="293000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
