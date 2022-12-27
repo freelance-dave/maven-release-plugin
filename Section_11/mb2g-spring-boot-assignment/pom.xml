@@ -20,9 +20,8 @@
     <artifactId>spring-boot-mm-json</artifactId>
     <version>${revision}</version>
 
-    <name>mb2g-spring-boot-assignment</name>
+    <name>mb2g-spring-boot-json</name>
     <description>Demo project for Spring Boot</description>
-
 
     <properties>
         <revision>0.0.1-SNAPSHOT</revision>
