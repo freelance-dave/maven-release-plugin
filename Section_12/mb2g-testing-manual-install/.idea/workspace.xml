@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f99c9b37-3545-4311-93e2-0a6de9fb18f5" name="Changes" comment="" />
+    <list default="true" id="f99c9b37-3545-4311-93e2-0a6de9fb18f5" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -12,6 +14,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
@@ -36,8 +41,12 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "com.google.cloudcode.ide_session_index": "20221229_0001",
+    "com.google.cloudcode.ide_session_index": "20221229_0005",
     "last_opened_file_path": "/Users/dave/Development/Java_WorkSpace/Apache_Maven_Beginner_to_Guru/Section_12/mb2g-testing-manual-install",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
     "vue.rearranger.settings.migration": "true"
   }
@@ -51,6 +60,8 @@
       <option name="presentableId" value="Default" />
       <updated>1672311560277</updated>
       <workItem from="1672311561250" duration="82000" />
+      <workItem from="1672314341076" duration="22000" />
+      <workItem from="1672314460457" duration="1141000" />
     </task>
     <servers />
   </component>
