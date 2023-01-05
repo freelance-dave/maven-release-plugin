@@ -15,9 +15,14 @@ jobs:
       - image: cimg/openjdk:19.0
     # Add steps to the job
     # See: https://circleci.com/docs/2.0/configuration-reference/#steps
+    
+    working_directory: ~/Apache_Maven_Beginner_to_Guru/Section_16/mb2g-release-plugin-circleci
+
     steps:
       # Checkout the code as the first step.
-      - checkout
+      - checkout:
+          path: ~/Apache_Maven_Beginner_to_Guru
+
       # Use mvn clean and package as the standard maven build phase
       - run:
           name: Build
