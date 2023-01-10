@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="098dd27c-5e08-4ffc-ab34-55f3140f309f" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/../../.circleci/config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../../.circleci/config.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="098dd27c-5e08-4ffc-ab34-55f3140f309f" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -47,7 +44,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "com.google.cloudcode.ide_session_index": "20230105_0001",
+    "com.google.cloudcode.ide_session_index": "20230111_0005",
     "last_opened_file_path": "/Users/dave/Development/Java_WorkSpace/Apache_Maven_Beginner_to_Guru/Section_16/mb2g-release-plugin-circleci",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -57,6 +54,19 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RunManager">
+    <configuration name="Markdown Snippet" type="BashProRunConfiguration" temporary="true">
+      <scriptContent>ssh-keygen -m PEM -t rsa -C &quot;your_email@example.com&quot;</scriptContent>
+      <option name="sourceType" value="snippet" />
+      <option name="workingDirectory" value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="BashSupport Pro.Markdown Snippet" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -67,6 +77,10 @@
       <updated>1672843883129</updated>
       <workItem from="1672843884474" duration="80000" />
       <workItem from="1672934411160" duration="1231000" />
+      <workItem from="1673366167028" duration="731000" />
+      <workItem from="1673437812482" duration="164000" />
+      <workItem from="1673438093906" duration="38000" />
+      <workItem from="1673438223343" duration="846000" />
     </task>
     <servers />
   </component>

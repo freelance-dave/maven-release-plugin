@@ -1,7 +1,7 @@
  #Use the latest 2.1 version of CircleCI pipeline process engine.
 version: 2.1
 jobs:
-  build-test-deploy:
+  build-release:
 
     # A list of available CircleCI Docker Convenience Images is available here:
     # https://circleci.com/developer/images/image/cimg/openjdk
@@ -13,8 +13,15 @@ jobs:
     environment:
       # Customize the JVM maximum heap limit
       MAVEN_OPTS: -Xmx3200m
+      # this enables colors in the output
+      TERM: xterm
 
     steps:
+      # GitHub Read/Write access: use CircleCI User Key (read/write) deployment key
+      - add_ssh_keys:
+          fingerprints:
+            - "70:32:cb:b4:2f:f2:4a:5c:54:56:18:1a:7d:65:2e:4e"
+
       # Checkout the code as the first step.
       - checkout:
           path: ~/repo
@@ -36,18 +43,19 @@ jobs:
           paths:
             - ~/.m2
 
-       # Run the integration Tests.
       - run:
-          name: Build & Test
-          command: mvn integration-test
+          name: Update git configuration
+          command: |
+            git config user.email "cpp.sage@gmail.com"
+            git config user.name "Via CircleCI Build"
 
       - run:
-          name: Deploy to packagecloud
-          command: mvn deploy -s ./settings.xml
+          name: Release to PackageCloud
+          command: mvn --batch-mode release:prepare release:perform -s ./settings.xml
 
 # Invoke jobs via workflows
 # See: https://circleci.com/docs/2.0/configuration-reference/#workflows
 workflows:
-  deploy:
+  release:
     jobs:
-      - build-test-deploy
+      - build-release
