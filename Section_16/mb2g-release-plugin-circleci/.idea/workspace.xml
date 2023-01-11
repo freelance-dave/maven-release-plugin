@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="098dd27c-5e08-4ffc-ab34-55f3140f309f" name="Changes" comment="" />
+    <list default="true" id="098dd27c-5e08-4ffc-ab34-55f3140f309f" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CircleCi.md" beforeDir="false" afterPath="$PROJECT_DIR$/CircleCi.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -44,7 +48,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "com.google.cloudcode.ide_session_index": "20230111_0005",
+    "com.google.cloudcode.ide_session_index": "20230111_0007",
     "last_opened_file_path": "/Users/dave/Development/Java_WorkSpace/Apache_Maven_Beginner_to_Guru/Section_16/mb2g-release-plugin-circleci",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -81,6 +85,7 @@
       <workItem from="1673437812482" duration="164000" />
       <workItem from="1673438093906" duration="38000" />
       <workItem from="1673438223343" duration="846000" />
+      <workItem from="1673450651344" duration="359000" />
     </task>
     <servers />
   </component>

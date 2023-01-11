@@ -69,6 +69,21 @@ we need Read and Write PEM Key.
               - checkout:
                   path: ~/repo
         ```
+        
+# _Issue_: CircleCI is recursively triggered by each maven release change committed.
+**Solution**:  Prevent CircleCI from triggering by adding the text "\[skip ci]" to each 
+maven-release-plugin commit.  As per the XML snippet below:
+
+```xml
+      <plugin>
+          <groupId>org.apache.maven.plugins</groupId>
+          <artifactId>maven-release-plugin</artifactId>
+          <version>3.0.0-M7</version>
+          <configuration>
+              <scmCommentPrefix>[maven-release-plugin] [skip ci]</scmCommentPrefix>
+          </configuration>
+      </plugin>
+```
 
 
 
